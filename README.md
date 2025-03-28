@@ -104,7 +104,7 @@ Basicamente porque es mas seguro de canjear y no era tonto no le iba a dar mi cu
 
 IMPORTANTE: LO HACIA SOLO PARA COMPRARME JUEGOS NO POR MALDAD.
 
-## Capítulo 4: Mi primer ataque 
+## Capítulo 4.1: Mi primer ataque LAN
 
 Buenos ahora vamos a comenzar en lo bueno ya que aqui vais a ver cual fue mi primer ataque, mi primer ataque fue un ataque dos para denegar el servicio de mi ps3 porque mi hermano ese día no me dejaba jugar con un amigo por lo cual me quito el mando y me cabreo tanto que empece a jugar con mi samsung S4 (android versión 4) rooteado. Tenia una app llamada WifiKill 
 
@@ -121,6 +121,25 @@ Basicamente escuchaba a mi hermano cabreado "porque no va el puto internet" y ad
 ![image](https://github.com/user-attachments/assets/45b76ff4-a711-4912-b8cd-cac28a46a344)
 
 Claro mi amigo me decia que aparecia todo el rato conectado y desconectado jajaja. Recuerdo como mi hermano fue a reiniciar el router una 3 veces. 
+
+## Capítulo 4.2: Mi primer ataque WAN 
+
+Cuando me compre la PS4 vi que llegaron los famosos grupos de chat de voz, era muy curioso porque vi por primera vez los chat de voz VoIP entonces investigue y averigue que PS4 usa los puertos 3478–3479 UDP 
+eso fue una de las críticas más grandes al sistema de chat de voz de PS4 en sus primeros años que nunca parchearon. 
+
+Empece a usar Cain & Abel un sniffer para windows 7 
+
+![image](https://github.com/user-attachments/assets/11bcd1ce-7490-4ef1-a4bd-7603c9e59384)
+
+Como vemos me sacaba las direcciónes ip publicas de las personas que estaban dentro de la sala de chat de voz, con esto podia decir de donde es más o menos la persona para darle miedo o reirme con mis amigos o directamente tumbarle la conexión duramente 15 minutos. 
+
+En esa epoca estaba muy de moda (como ahora) los ipsstrsser. Basicamente era una botnet que si te creabas multicuentas te dejeban 10 ataques de 1Gbps por cuenta. Pues en menos de 20 segudos le tumbaba la red por completo del router jaja. Mis amigos hasta cuando llegaban a terner un bajon de internet me decian que parara cuando no era yo imaginate la mala fama que tenia en esa epoca jaja. 
+
+SI ERA UN NIÑO RATA TUMBA CONEXIÓNES OK? JAJAJ
+
+## Capítulo 5: Entre en ciclo de electricidad y electronica. 
+
+Bueno esta fase de mi vida la recuerdo como muy bonita pero también muy triste ya que en esa epoca no me gustaba estudiar y estaba todo el día jugando a la ps3-ps4 en mi mundo digital. 
 
 
 
