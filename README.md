@@ -211,19 +211,18 @@ Me di cuenta que la raspberry pi 3 era muy limitada y me atrevi a instalar kali 
 ![image](https://github.com/user-attachments/assets/ee960bf2-7611-4258-9d0a-04d1a733ffd3)
 
 Unos meses más tarde descubri Mr.Robot y me fascino, ver como un hacker podia acabar con la economia mundial. También me fascino Elliot como era capaz de hackear tanto sistemas como personas.
-
 Para poder ver la serie la vi con mi propio sistema de pirateria que vendia. Esta serie me motivo mucho para seguir aprendiendo y también para hacer maldades que no voy a decir. Solo dire las más "menos ilegales"
 
-En esa epoca queria probar de nuevo la ingieneria solcial, logre acceder a mucuhas cuentas de instagram de mis amigos (que no me caian bien) tenia 2 metodos muy efectivos. 
+En esa epoca queria probar de nuevo la ingieneria social, logre acceder a muchas cuentas de instagram de mis amigos (que no me caian bien) tenia 2 metodos muy efectivos. 
 
-Metodo 1: Engañar a mi amigo. 
+- Metodo 1: Engañar a mi amigo. 
 Siempre han existido los tipicos grupos de enviar tu nueva foto de instagram para que te den like x like o también el tipico grupo de amigos donde se comparten memes por whatsapp. En mi caso como mis amigos sabian que estaba metido en el hacking use a un amigo como gancho para que enviara mi link falso, en whastapp es muy gracioso porque si pones una imagen real y abajo el link cuela perfectamente que parece real además whastapp no tiene un sistema de detección de urls ya que va cifrado de extremo a extremo. 
 
 ![Mapa mental - P�gina 1 (5)](https://github.com/user-attachments/assets/83a90adc-7a1f-4abd-932b-788d0a8f80e8)
 
 Con esto mis amigos entraban al link y me daban sus contraseñas y podia acceder a ellas, en 2016 hasta 2021 instagram no avisaba cuando alguien accedia a tu cuenta por lo cual era la polla podia cotillear y tener siempre ventaja contra mis enemigos, además gracias a esto descubri como un "amigo" hablaba mal de mi a mi ex jajajajajjaja
 
-Metodo 2: En 2017 estaba de moda ThisCrush anonymous questions
+- Metodo 2: En 2017 estaba de moda ThisCrush anonymous questions
 Basimanete era una app que la gente opinaba sobre ti en anonimo, pero claro descubri una forma de saber quien me comentaba + robarle su cuenta de instagram. 
 
 Basicamente lo que se hacia era que dejabas el link de tu perfil de ThisCrush anonymous questions en tu biografia de instagram
