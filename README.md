@@ -140,6 +140,43 @@ SI ERA UN NIÑO RATA TUMBA CONEXIÓNES OK? JAJAJ
 ## Capítulo 5: Entre en ciclo de electricidad y electronica. 
 
 Bueno esta fase de mi vida la recuerdo como muy bonita pero también muy triste ya que en esa epoca no me gustaba estudiar y estaba todo el día jugando a la ps3-ps4 en mi mundo digital. 
+En este clico empece a tocar circuitos electronicos ya que me gusto mucho gracias a esto a día de hoy me arreglo yo (dentro de mis posibilidades) todo lo que puedo.
+
+Aqui dejo un par de fotos de su epoca jugando con circuitos:
+
+![image](https://github.com/user-attachments/assets/9624473c-02d1-426b-b8cd-7375f043bc1a)
+
+Placa board con pila petaca de 5V alimentando un led con resistencia para evitar que sea fundido. 
+
+![image](https://github.com/user-attachments/assets/dbea04b8-8d74-40b1-8aef-aac43a2e295e)
+
+Montar circutos con chips
+
+![image](https://github.com/user-attachments/assets/4bf649c4-750b-47c2-af6d-1758b660e786)
+
+Aqui esto es más electricidad montando paneles con contactores para maquinas. 
+
+En este ciclo monte mi primer router ya que habia una asignatura de telecomunicaciónes, aqui realice un ataque WiFi WPS con la app WPS WPA tester ya que mi profesor le molaba el hacking y le demostre que podia hackearlo si lo hacia me ponia un positivo, recuerdo que tenia un amigo en clase que le decia hazlo conmigo y te ganas un positivo free jaja en la foto se le ve un poco fijate: 
+
+![image](https://github.com/user-attachments/assets/ce4ff1f4-fc1a-4bb0-9901-3112d979d399)
+
+Aqui montamos el router y por desgracia no tengo foto del ataque.
+
+En esta epoca empece a jugar mucho con linux y raspberry pi. Logrando instalar kali linux en la raspberry pi 3 (para mi era un logro ya que nunca use linux) si este fallo lo cometi yo asi que porfavor no uses kali linux o parrot os sin saber antes de linux :(
+
+![image](https://github.com/user-attachments/assets/e6f4f36d-0e1f-420e-817e-628f46601959)
+
+El royo no es de papel que ya me veo diciendome pajero jaja era un royo de pegatinas blancas ya que lo usaba mucho para apuntes. 
+
+![image](https://github.com/user-attachments/assets/8427c865-1bcb-47d7-8c7c-564a717ed7de)
+
+Aqui feliz con mi RPI 3 con el la carcasa transparente to hacker ahi jajajaja
+
+## Capítulo 6: Me meto ya en el hacking de golpe
+
+
+
+
 
 
 
