@@ -296,9 +296,39 @@ esta es la pantalla:
 
 Era curioso porque a veces cuando saturabas el puerto, se caia pero te dejaba libre la conexión y podias conectar tu pantalla así podia quitar al profesor y secuestrar tu la pantalla xD
 
-Bueno me voy a dormir son las 4 AM, mñana sigo publicando....
+## Capítulo 7: 1 año sin hacer nada 
 
-Si llegaste hasta aqui mandame foto :)
+Me encontre en una epoca que no tenia motivación ni para seguir en el hacking. Tenia 0 euros en el banco, problemas familiares y mucho tiempo libre por lo cual empece a relacionarme con gente bastante conflictiva. En esa epoca si hice cosas no legales relacionadas por el hacking por sentirme realizado ya que no tenia ingresos, solo dare una pista. En una noche saque 120 millones de lineas (si sabes del tema ya sabes a que me refiero). Se que estaba mal pero no queria pedir dinero a mis padres para mis cosas por lo cual tenia que buscarme la vida.
+
+Sabia que estaba mal pero me relacionaba con gente que ya hacia cosas ilegales en la vida real, como robar, consumir drogas e incluso buscar peleas, obviamente tener un hacker en un grupo conflictivo sumaba muchos puntos jaja. En esa espoca contare varias anegnotas muy graciosas y otras no tanto ya que no me siento orgulloso de eso. 
+
+- Sacaba cuentas de plataformas de streaming: Bueno esto no es muy preocupante ni alarmante ya que no estoy robando un banco ni mucho menos, pero bueno me sacaba unos euros extra vendiendo cuentas por 5€, era la polla porque en una noche sacaba como unas 10.000 o 5.000 depende de la buena suerte que tuviera jaja, entocnes como no podia venderlas todas se las regalaba a mis amigos, conocidos e incluso a tias solo para ligar jajajaja.
+
+Aqui dejo un par de imagenes
+
+<img width="538" alt="Captura de pantalla 2023-12-21 002925" src="https://github.com/user-attachments/assets/f21dfd50-50f5-4370-9549-b90a6013569d" />
+
+![image](https://github.com/user-attachments/assets/cc112c3c-013c-41ad-9672-076042ca36c2)
+
+<img width="771" alt="image" src="https://github.com/user-attachments/assets/d0ac89a7-41be-4650-9a61-9911269e3800" />
+
+- Compraba ropa "gratis": Si señores como lo leen, no dire como lo hacia porque no quiero problemas legales.
+
+Obviamente esa ropa la he usado en los videos de hacking con h asi que a un la tengo.
+
+## Capítulo 7.1: Mi vida era un infierno versión 2 + Emprender
+
+Empece nuevos estudios de infomática pero era 100% online por lo cual no me lo tomaba muy enserio, las primeras clases me aburrian sinceramente ya sabia el temario, ya que el primer año se hacen como "repasos" de otros años entonces se me fue la motivación en seguir estudiando. Llevaba tiempo sin acudir a clase, sin subir las actividades y mis padres se enfadaron conmigo. Mi vida era un infierno ya que no sentia interes en los estudios, mis padres no me entendian y no tenia dinero para salir a tomar algo con mis amigos. 
+
+Llego un día que me sente en la habitación, empece a crear un curriculum y buscar trabajo como informático o ciberseguridad. Claro solo habia algo que me tiraba para atras, no tenia certificaciónes de ciberseguridad además no tenia dinero para pagarlas. Pasaron las semanas y no me cogieron en ningun sitio, estaba tan cabreado que dije si no puedo encontrar trabajo entonces creo yo mi propio trabajo y ahi decidi en crear la empresa que tengo actualemente de ciberseguridad. 
+
+Al principio no fue nada fácil, no tenia ni idea de emprendimiento, mis padres no lo veian del todo claro, ya que ellos veian que fuera más facil trabajar para otros. 
+
+Empece a buscarme la vida, acudiendo a eventos de emprendimiento, clubs de networking, me apunte a una asociación de emprendedores (actualmente trabaji ahi que cosas jaja) y me dieron formación con un programa que solo aceptaban a 20 proyectos innovadores y sostenibles. En mi caso lo era ya que no contamino y es digital. Me aceptaron y me dieron formación en emprednimiento durante 9 meses. Me enseñaron a vender, como hablar a un cliente, como hacer facturas y lo más importante como organizarme. 
+
+Vender realmente no me gusta pero es necesario aprender si quieres vender un producto/servicio ya que tienes que buscar una necesidad en el cliente para darle una solución, es psicologia me encanta ajaj, es como si tuvieras que hackear la mente de la otra persona para convencerle que mi servicio es el que necesita pagar. 
+
+Empece a hacer lo tipico, 
 
 
 
