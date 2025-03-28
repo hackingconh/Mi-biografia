@@ -188,6 +188,35 @@ Empiezo a crear keyloggers para windows XP  para meterlos en los pcs de mis comp
 
 <img width="246" alt="image" src="https://github.com/user-attachments/assets/494bea59-916c-412f-ab7d-ed04462fa990" />
 
+Aqui dejo una imagen de cuando ya estaba estudiando hacking con 16 años.
+
+![image](https://github.com/user-attachments/assets/c737fb47-c283-4bfc-b209-279375111a3d)
+
+Mi profesor de Teleco me enseño que la raspberry pi se puede usar como centro multimedia pero claro el lo que hacia era descargar las peliculas y yo averigue que con dorks en google podia verlas sin descargar por lo cual quedo muy soprendido y en unas semanas cree mi 3 negoció vendiendo sistemas pirata de streaming tanto en android como en rpi asi me ganaba algo extra. 
+
+![image](https://github.com/user-attachments/assets/8b2043c1-0830-4f36-8a95-89efa85f902e)
+
+![image](https://github.com/user-attachments/assets/a425a158-2edd-4b15-95e8-7e38ef9a648b)
+
+Deje de lado el negoció de pirateria y me centre en el hacking de nuevo. 
+
+Me di cuenta que la raspberry pi 3 era muy limitada y me atrevi a instalar kali linux directamente en mi portatil, además tenia ya un pc de torre pero era tambien muy similar al portatil por lo cual me iba mejor el portatil y ahi toque mi primer linux en un pc. Los leds blancos los arregle ya que me los encontre en mi clase y así tenia iluminación "hacker" jaja. 
+
+![image](https://github.com/user-attachments/assets/57861957-2311-40a4-ace1-ab9e07854a47)
+
+## Capítulo 6.2: Mr robot en 2015
+
+![image](https://github.com/user-attachments/assets/ee960bf2-7611-4258-9d0a-04d1a733ffd3)
+
+Unos meses más tarde descubri Mr.Robot y me fascino, ver como un hacker podia acabar con la economia mundial. También me fascino Elliot como era capaz de hackear tanto sistemas como personas.
+
+Para poder ver la serie la vi con mi propio sistema de pirateria que vendia. 
+
+
+
+
+
+
 
 
 
