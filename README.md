@@ -328,7 +328,43 @@ Empece a buscarme la vida, acudiendo a eventos de emprendimiento, clubs de netwo
 
 Vender realmente no me gusta pero es necesario aprender si quieres vender un producto/servicio ya que tienes que buscar una necesidad en el cliente para darle una solución, es psicologia me encanta ajaj, es como si tuvieras que hackear la mente de la otra persona para convencerle que mi servicio es el que necesita pagar. 
 
-Empece a hacer lo tipico, 
+Empece a hacer lo tipico: 
+- Hacer campañas de publicidad por redes sociales
+- Enivar miles de emails
+- Hablar a gente por redes sociales para conseguir ventas
+
+Realmente no me funciono ninguna de las 3 opciones entonces se me ocurrio algo muy curioso ya que es algo que todos usamos desde hace muchos años y no lo he tenido en cuenta en todo momento. 
+Se me ocurrio crear un scraper con python que lo que hacia era buscar empresas de un tamaño de empleados determinado y de un sector diferente. Despues me pasaba toda la información a una tabla excel para despues realizar llamadas de puerta fria. 
+
+![Mapa mental - P�gina 1 (8)](https://github.com/user-attachments/assets/e0a6e094-2d13-4be9-bf89-549ec32eb3f7)
+
+En cuestión de 2 meses logre una suma de 5.000 euros pudiendo comprar un ordenador decente (El portatil que tengo actualmente que veis en los videos), los serivicios era solo configuraciones de ciberseguridad, no era de pentesting.
+
+Pero claro no tenia clientes fijos, solo gastos así que en unos 9 meses me quede con 1.000 euros así que tenia que ponerme las pilas de nuevo. 
+
+Empece a llamar a empresas de nuevo y dio la casualidad de que llame a un autónomo que realizaba sericios de ciberseguridad (copias de seguridad, cortafuegos y gestión de datos) pero no pentesting encontes me consiguio un cliente para realizar una auditoria de pentesting. Dios que emocionado estaba era mi primera auditoría profesional a una empresa. Tarde menos de 12 horas en ser administrador en uno de sus servidores teniendo acceso a toda la base de datos de sus clientes. 
+
+![image](https://github.com/user-attachments/assets/142c44fb-b2bd-4940-b7fd-12a8b73cce7b)
+Censuro porque tengo un acuerdo de confidencialidad con ellos. 
+
+Pasaron unos meses y conoci a un empresario que actualmente es mi socio (Tiene una empresa de informática, sus servicio cubren hasta 10 paises.) 
+
+Le envie una propuesta de hackear su empresa y si lo conseguia me dijo que podiamos colaborar entonces me dio permiso por contrato que podia auditarles. 
+
+Tarde una semana, pero lo logré. Tenia acceso a varias cuentas de linkedin de los empleados, logre tumbar uno de sus servidores y mucho más. 
+
+Aqui dejo un par de fotos: 
+
+![image](https://github.com/user-attachments/assets/cc90807a-0bb8-4c30-abe4-54cf3572c618)
+
+![image](https://github.com/user-attachments/assets/27d13766-1998-4f18-9cf6-8564239cef4a)
+
+En ese momento a mi socio le gusto mucho ya que el tenia a otra empresa que queria colaborar con su empresa pero le dijo que quitaran sus cortafuegos para poder operar, pero en mi caso no fue así yo le dije alreves ajaja le dije que blindaran todo lo que pudieran antes de empezar a auditar. 
+
+Bueno me tengo que ir mañana sigo con esto.... gracias por lerr si llegaste hasta aquí que sepas que eres un/una maquina por leerme porfa avisame si estas leyendo esto y dimelo por mensaje por insta que me da ilusión, mañana sigo con esto :)
+
+
+
 
 
 
