@@ -175,6 +175,21 @@ Aqui feliz con mi RPI 3 con el la carcasa transparente to hacker ahi jajajaja
 
 ## Capítulo 6: Me meto ya en el hacking de golpe
 
+Aqui ya empiezo a jugar con kali linux en la raspberry pi porque mi portatil no podia usar virtualbox tenia muy pocos recursos, por lo cual usaba la RPI 
+En menos de 2 días logre hacer mi primer ataque Man in The Middle robando la cuenta de hotmail a mi padre, solo le dije: 
+
+PAPA entra a hotmail y logueate. Así de sencillo jaja. 
+
+Monté un ataque de DNS spoofing: cuando su equipo pedía la dirección de Hotmail, lo redirigí a mi sitio falso, una réplica convincente lista para capturar credenciales. La trampa funcionó a la perfección. Fue mi primera lección real de ingeniería social y su combinación con ataques de red.
+
+![image](https://github.com/user-attachments/assets/6051b746-cb22-4ca0-b100-4dbbdc04e5dd)
+
+Empiezo a crear keyloggers para windows XP  para meterlos en los pcs de mis compañeros así entrar en sus cuentas de gmail.
+
+<img width="246" alt="image" src="https://github.com/user-attachments/assets/494bea59-916c-412f-ab7d-ed04462fa990" />
+
+
+
 
 
 
