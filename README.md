@@ -288,6 +288,17 @@ Cree una script para inundar de paquetes el puerto de imagen y la pantalla se bl
 
 ![Mapa mental - P�gina 1 (7)](https://github.com/user-attachments/assets/abe5380d-e4c6-4c44-9f58-16a00d708b85)
 
+Basicamente era slowloris automatizado jaja. 
+
+esta es la pantalla: 
+
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/b37f555a-51d4-43c5-b9ef-d597bc6a6567" />
+
+Era curioso porque a veces cuando saturabas el puerto, se caia pero te dejaba libre la conexión y podias conectar tu pantalla así podia quitar al profesor y secuestrar tu la pantalla xD
+
+Bueno me voy a dormir son las 4 AM, mñana sigo publicando....
+
+Si llegaste hasta aqui mandame foto :)
 
 
 
