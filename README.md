@@ -43,8 +43,8 @@ Bueno aprendi mucho de mi amigo ya que se parece mucho por su personalidad al pe
 Os comento cómo funciona nuestro segundo timo:
 - Poniamos a la venta un furni/raro en el mercadillo y este sale el primero cuando no debería salir.
 - El furni/raro a la venta está a un precio superior del que está, pero tú el precio que ves es el que el usuario ha puesto.
-- Éste te pedirá que le compres ese furni porque a él le da "error" (cosa común en los fallos de merca) y que te pagará una cantidad por haberle hecho "el favor".
-- No obstante, NO hemos hecho ningún favor... El furni o rare comprado es suyo y le habremos pagado de más por él.
+- Le pediamos que nos comprara ese furni porque a él le da "error" (cosa común en los fallos de mercado) y que me pagará una cantidad por haberle hecho "el favor".
+- No obstante, NO hemos hecho ningún favor... El furni o rare comprado es nuestro y encima nos ha pagado de más por él.
 
 Muchas veces nos haciamos pasar por chicas ya que el hombre de por si tiende a ser "retrasado" por una mujer no lo digo yo lo, es la misma naturaleza. Quien no hace tonterias cuando esta enamorado o le intersea alguien.
 Si eramos unos cabrones pero teniamos 12 años y no teniamos dinero para comprar rares ok? 
