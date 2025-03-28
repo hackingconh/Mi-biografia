@@ -206,7 +206,7 @@ Me di cuenta que la raspberry pi 3 era muy limitada y me atrevi a instalar kali 
 
 ![image](https://github.com/user-attachments/assets/57861957-2311-40a4-ace1-ab9e07854a47)
 
-## Capítulo 6.2: Mr robot en 2015
+## Capítulo 6.2: Mr robot en 2015 y mi nuevas tecnicas de manipulación
 
 ![image](https://github.com/user-attachments/assets/ee960bf2-7611-4258-9d0a-04d1a733ffd3)
 
@@ -231,12 +231,67 @@ Ejemplo real de la epoca:
 
 Entonces se me ocurrio usar link.te para redirigir meter ahi mi link falso de insagram para robo de la contraseña, despues lo redirigia a mi web de ThisCrush para no levantar sospechas.
 
-<img width="133" alt="image" src="https://github.com/user-attachments/assets/78c6b5d9-2270-4420-8f4d-1c7ae908ab6e" />
+
+![Mapa mental - P�gina 1 (6)](https://github.com/user-attachments/assets/20640fc6-c92d-486d-ab94-f5c5c09ad152)
+
 <img width="143" alt="image" src="https://github.com/user-attachments/assets/348e998b-84f0-4553-99fd-149e14d08027" />
 
 Este metodo era el mejor ya que linktree esta muy bien para versiónes mobiles enotnces cree un panel web dentro para dejar un mensaje de alerta que hay que loguearse para poder acceder pero se dejara el comentario anonimo igualmente para hacerle creer que es anonimo.
 
 Llegue a ganar 100 euros ya que habia mucho hate y estaba muy de moda esa app y mucha gente averiguo quienes eran los que les insultaban en anonimo jaja. 
+
+## Capítulo 6.2: Nacimiento de hacking con h
+
+Basicamente mi profesor me reto a hacer algo para demostrar que más sabia hacer a parte de hackear routers y cuentas de instagram xD, enconces publique mi primer video de YouTube "como hackear mi instituto" basicamente pille la primera web que fuera http:// para hacer un man in the middle (Habia hente que creia que era mi instituto jaja pero no es el mió) Baicamente use una dork como esta: 
+
+inurl: http:// | intext: insituto 
+
+¿Porque Hacking con H? 
+
+Me gusta mucho la ciencia me inspire en el canal de C de ciencia jaja pero en mi caso Hacking con H 
+
+Despues empece a subir cosas en insta donde conoci a varios hackers como s4vitar, barcode y creadpag. 
+
+## Capítulo 6.3: Me fui a estudiar informática + como logre hackear tanto a mi profesor como a mis compañeros
+
+Esta etapa la recuerdo muy bien porque fue la primera vez que logro hacekar todo lo que tenia por delante. 
+
+![image](https://github.com/user-attachments/assets/61ced8bd-1ad5-487a-89bf-39dd3c4045e9)
+
+- Hackeo a profesor que nos cae mal a todos: 
+Basiamente teniamos un profesor un poco subnormal ya que se creeia mejor que nosotros por tener una carrera universitaria el come mierdas, nos hablaba mal y se creia dios. 
+Un día la red del centro educativo no funcionaba y claro usabamos portatiles, a el se le ocurrio la brillante idea de compartir internet de su telefono. Me conecte y podia ver la dirección ip de su pc ya que los profesores se conectaban a otra wifi por seguridad, en mi caso estabamos en la misma subred.
+
+Resulta que teniamos unos días antes unas practicas y ejecicios de ssh por lo cual tenia ssh abierto y se me ocurrio loguerame con la contraseña de administrador que todos los portatiles tenian, claro en mi cabeza pensaba que iba a ser imposible ya que era el pc del profesor y creeia que esa contraseña de administrador la cambio pero no lo hizo jaja. Me meti por ssh a su pc y el mientras tanto estaba compartiendo la pantalla desde el proyector. Emepece a cerrar las penstañas del navegador y el tio decia "huy parece que mi sistema va mal eso es porque llevo 2 meses sin actualizarlo" jajaajajjajaa 
+
+Mis compañeros de clase se descojonaron, logre sacar un examen que tenia en una carpeta jaja. 
+
+Prueba de que tenia acceso desde ssh: 
+
+![image](https://github.com/user-attachments/assets/6f74cffa-ff62-4d4d-b4d7-f9b824e2de73)
+![image](https://github.com/user-attachments/assets/7e4df0e5-c54f-4db6-b13b-ee231ccfcf41)
+![image](https://github.com/user-attachments/assets/deb4bf27-40f6-4780-9462-8d4d3731d6b9)
+
+- Robo de trabajos a mis compañeros:
+![image](https://github.com/user-attachments/assets/efb911d5-5705-4689-8660-22b004ce5d1a)
+<img width="88" alt="image" src="https://github.com/user-attachments/assets/dc223637-5390-4381-bcf2-c12349e28f37" />
+
+- Trolleaba a mis compañeros en unos ejecicios practicos
+Teniamos unas practicas de usas phpmyadmin ya que estaban mal configurados y versiones muy antiguas (mal por parte de mi profesor), entonces lograba liarsela a mis compañeros incluso tumbaba su servidor jaja.
+
+![image](https://github.com/user-attachments/assets/001852dc-4fde-4b35-99ed-188fa72191e1)
+
+- Hackaba la pizarra ya que era una tactil y era una raspberry pi con un OS Android.
+Esto es lo que más me gustaba resulta que la pizarra era una pantalla tactil con una raspberry py con un sistema operativo android, muchas veces mi profesora de ingles se concestaba con la tablet para compartir pantalla entonces claro averigue que puertos usaba para la trasnmisión de imagen y sonido.
+
+Cree una script para inundar de paquetes el puerto de imagen y la pantalla se bloqueaba y se congelaba a tal punto que la tenia que apagar del todo y reiniciarla, Como era una clase de ingles ella nos obligaba a no usar el portatil entonces me meti la script en bash en termux y me conectaba a la wifi del centro ya que la TV funcionaba por wifi. 
+
+![Mapa mental - P�gina 1 (7)](https://github.com/user-attachments/assets/abe5380d-e4c6-4c44-9f58-16a00d708b85)
+
+
+
+
+
 
 
 
