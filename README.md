@@ -12,9 +12,16 @@ Mi padre acepto el reto y logro hacer un bypass al login de windows xp, (piensa 
 Por lo cual mi primer ordenador fue un windows xp. 
 Pero llego el día de mi comunión donde me regalaron mi primer ordenador portatil donde he crecido con el. Era un HP con un procesador i3, con 4 Gb ram. En esa epoca iba volando ese ordendor. 
 
+![image](https://github.com/user-attachments/assets/b0bd2e72-c869-4ee1-82be-9c6344c9cce3)
+
 Gracias a mi padre me meti en este mundo ya que mi padre creaba antenas WiFi caseras para robar WiFi a mis vecinos ya que usaba WifiWay (el papa de Wifislax) en esa epoca. 
 
-![image](https://github.com/user-attachments/assets/b0bd2e72-c869-4ee1-82be-9c6344c9cce3)
+Una de las antenas que más creaba mi padre era con un palo, hilos de cobre rigido y un cable coaxial, por desgracia no tengo foto porque en esa epoca no tenia nada para hacer foto pero si puedo crear una maqueta.
+
+![Mapa mental - P�gina 1 (9)](https://github.com/user-attachments/assets/51ae1a6e-4fcb-4e5b-b46a-d7af3f7fe986)
+
+Una historia muy graciosa de cuando mi padre estaba en su prime ajaja, es que un vencino nuestro nos dijo que se compro una antena que en esa epoca valia casi 100 euros, y la antena que creo mi padre era mucho más potente que la nueva que se compro mi vecino. Cuando me lo conto me empece a reir porque mi padre con solo 15 euros creo una más potente. 
+
 
 Desde pequeño siempre me gusto la informática o la tecnologia ya que cuando tenia 4 años ya jugaba a la PS2 al GTA San Andreas, siempre me llamo la atención el mundo de la informática. 
 Todo empezo cuando me compraron una webcam para usarla en el messenger para hablar con mis amigos. Que putos recuerdos esos zumbidos, caricaturas ascii y la notificación de un mensaje. 
