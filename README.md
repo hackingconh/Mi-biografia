@@ -1,4 +1,4 @@
-Introducción: Voy a comentarte mis pasos en el mundo del hacking ético, te reiras obviamente no contare todo por motivos de seguridad
+Introducción: Voy a comentarte mis pasos en el mundo del hacking ético, te reiras porque hay muchas historias graciosas, obviamente no contare todo por motivos de seguridad
 Si ves faltas de ortografia lo siento pero me da pereza escribir todo perfecto. 
 
 ## Capítulo 0: Mi primer ordenador
